@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet">
+<meta charset="UTF-8">
+<title>Wedding Invitation</title>
+	<style>
+		main{
+			text-align: center;
+			color:black;
+			padding:0;
+			background-size:cover;
+			background-image:url("vertical.scroll1.png");
+			background-repeat:no-repeat;
+			height:1500px;
+			
+		}
+		
+		body{
+			margin:0;
+			padding:0;
+			background-color:black;
+			background-image: url("yellowhouse.scenery.gif");
+			background-size:cover;
+			background-repeat:no-repeat;
+			text-align: center;
+			font-family: "Marck Script", cursive;
+			font-size:26px;
+			text-shadow: color: black;
+		}
+		
+		
+		h1{
+			text-align:center;
+			padding-top:200px;
+			padding-bottom: 65px;
+			
+			
+		}
+		
+		
+		header{ 
+		text-align: center;
+		
+			
+		}
+			
+			
+		
+		wrapper { 
+			display:block;
+			width:1080px;
+			margin:auto;
+			font-style:normal;
+			
+			
+		}
+		.logo{
+			vertical-align:top;
+			
+	} 
+
+		
+		footer{
+			font-family:"Bad Script", cursive;
+			font-weight:bold;
+			color:darkgoldenrod;
+			border:double;
+			border-top-width:20px;
+			border-bottom-width:20px;
+		}
+		.banner {
+			
+			
+		}
+		
+		
+	
+	</style>
+	
+</head>
+	    <body>	
+	<wrapper> 
+		
+			<main>
+				<img src="" class="banner" />
+
+	
+	
+	<h1> WANTED BY  </h1>
+	
+	<h2> Teracius Howard and Jessica Lovely </h2>
+	<h2> GETTING MARRIED </h2>
+	<h3> Rich Or Poor </h3>
+	    
+		
+    <h4>See You Sunday 4.30.2028 <br> At HolyEscape Ranch<br>@ 11:30am-3:00pm</h4>
+	
+	<h1> REWARD</h1>
+    <h5> RSVP 951-555-6092</h5>
+	<h2> For attending this celebration <br> you'll recieve a shared memory <br> with two people who love one another who will <br> strive and stay together forever </h2>
+		
+		</main>
+		
+		
+		
+		
+		
+		
+	
+		</wrapper>
+		<footer>
+		<p>© Jessica louis, 2024. This is a fictitious web page created solely for the purpose of education and training. All products and people associated with this web page are also fictitious. Any resemblance to real brands, products, or people is purely coincidental. Information provided about the product is also fictitious and should not be construed to be representative of actual products on the market in a similar product category.</p>
+
+
+		</footer>
+</body>
+</html>
